@@ -1,4 +1,4 @@
-# Support-Vector-Machines
+# Transportation Mode Detection
 The project "Transportation Mode Detection" aims to identify the primary mode of transport used by an individual based on sensor data collected from their smartphone and surrounding environmental variables. This detection is performed using Support Vector Machines (SVM), a machine learning technique capable of distinguishing between different classes of data.
 
 Through the utilization of sensors embedded within smartphones, such as GPS, accelerometer, gyroscope, and magnetometer, along with environmental variables like time of day, weather conditions, and traffic density, the project aims to analyze patterns and features associated with various transportation modes. These modes typically include walking, running, cycling, driving, or using public transportation.
